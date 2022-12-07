@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Tristan (@trippel)
+- 🏠 I'm living near Leipzig, Germany
+- 👀 I’m interested in Linux, Golang, DevOps amongst way too many things
